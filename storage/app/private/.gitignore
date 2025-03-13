@@ -1,0 +1,5 @@
+*
+!.gitignore
+/public/storage
+.env
+.env.testing
